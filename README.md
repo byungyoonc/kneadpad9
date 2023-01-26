@@ -1,2 +1,2 @@
-# kitten6
-2x3 directly connected Macropad
+# 꾹꾹이패드9
+야옹전자 매크로패드 프로젝트: 3x3 직결 매크로패드입니다.
