@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "KneadPad9")
+    (rev "1")
+  )
+
   (lib_symbols
     (symbol "MCU_RaspberryPi_and_Boards:Pico" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -13.97 27.94 0)
