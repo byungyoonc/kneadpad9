@@ -1214,6 +1214,9 @@
   (gr_arc (start 182 115.15) (mid 181.414214 116.564214) (end 180 117.15) (layer "Edge.Cuts") (width 0.1) (tstamp d98527df-f502-4e67-ae24-201cae161e35))
   (gr_arc (start 100.24375 62) (mid 100.829536 60.585786) (end 102.24375 60) (layer "Edge.Cuts") (width 0.1) (tstamp f8298a5e-0660-4279-8c20-0e0909bb1517))
   (gr_line (start 102.24375 117.15) (end 180 117.15) (layer "Edge.Cuts") (width 0.1) (tstamp ff97b7c0-c724-4ba2-8ec6-5d212f418298))
+  (gr_text "KneadPad9 Rev.1 PCB" (at 101.2 115.4) (layer "F.SilkS") (tstamp c46eee81-1b01-4922-8db7-83a5cad85fb5)
+    (effects (font (size 1 1) (thickness 0.125)) (justify left))
+  )
 
   (segment (start 166.19375 114.76875) (end 166.19375 100.25375) (width 0.25) (layer "B.Cu") (net 2) (tstamp 28f01f4d-ae42-431f-ba9b-0e7d0cafd855))
   (segment (start 166.19375 100.25375) (end 178.98375 87.46375) (width 0.25) (layer "B.Cu") (net 2) (tstamp fa226cb1-4236-4b3f-9ccd-1a81d9e7467a))
